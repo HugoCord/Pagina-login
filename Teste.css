@@ -1,0 +1,72 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+div{
+    padding: 30px;
+}
+.Container {
+    display: flex;
+    background-color: lightsteelblue;
+    justify-content: flex-end;
+    align-items: flex-start;
+    height: 100vh;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.Cad{
+    display: flex;
+    height: 14px;
+    width: 539px;
+
+}
+.input-box{
+    width: 100%;
+    padding: 2%;
+}
+#Vi{
+    width: 332px;
+}
+#Nome{
+    width:100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
+#Endereço{
+    width: 100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
+#tel{
+    width: 100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
+#Datan{
+    width: 100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
+#Cep{
+    width: 100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
+#email{
+    width: 100%;
+    margin: 2px;
+    border: transparent;
+    background-origin: border-box;
+    border-radius: 7px;
+}
